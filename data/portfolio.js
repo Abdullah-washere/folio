@@ -2,12 +2,12 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   // each element in the description array is a paragraph
   name: 'Abdullah Malik',
-  role: 'Software Engineer',
+  role: 'Web Developer',
   company: 'Acme Labs',
   description: [
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   ],
-  resume: 'https://example.com',
+  CV: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
