@@ -3,9 +3,9 @@ const about = {
   // each element in the description array is a paragraph
   name: 'Abdullah Malik',
   role: 'Web Developer',
-  company: 'Acme Labs',
+  company: 'Stecker Inc',
   description: [
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "I am a creative computing enthusiast who has just completed my BSc in Creative Computing. With a passion for pushing the boundaries of web development and a penchant for turning innovative ideas into digital realities, I bring a unique blend of creativity and technical expertise to the table. My journey in the world of technology has been a thrilling adventure, and I'm excited to invite you to explore it with me through my portfolio. Join me as we dive into a realm where code and creativity converge, shaping the future one pixel at a time.",
   ],
   CV: 'https://example.com',
   social: {
@@ -67,12 +67,22 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
+  'Python',
+  'Figma',
+  'Canva',
   'SASS',
-  'Material UI',
-  'Git',
+  'Figma',
+  'Photoshop',
+  'Unity',
+  'Twine',
+  'AI',
+  'Canvas',
+  'Arduino',
+  'Data Visualisation',
+  'UI/UX',
+  'App Dev',
+  'Machine Learning',
+  'Cyber Security',
   'CI/CD',
   'Jest',
   'Enzyme',
@@ -80,7 +90,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johndoe@mail.com',
+  email: 'asualeheen@yahoo.com',
 }
 
 export { about, projects, skills, contact }
