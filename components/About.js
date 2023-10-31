@@ -21,7 +21,7 @@ const About = () => {
 
       {role && (
         <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-          I&apos;m a {role}
+          I&aposm a {role}
           {company && (
             <span>
               {' '}
@@ -37,7 +37,7 @@ const About = () => {
           <div className='about__desc paragraph__list center'>
             {description.map((item) => (
               <p key={uniqid()}>{item}</p>
-            )}
+            ))}
           </div>
         )}
 
