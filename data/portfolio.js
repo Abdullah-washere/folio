@@ -60,6 +60,146 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 5',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 6',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 7',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 8',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 9',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 10',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 11',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 12',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 13',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 14',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 15',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 16',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 17',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/placeholder-image.jpeg',
+    name: 'Project 18',
+    description: [
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
 ]
 
 const skills = [
