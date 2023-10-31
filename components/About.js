@@ -14,7 +14,7 @@ const About = () => {
 
       {firstName && (
         <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
-          Hey, I&apos;m <span className='text--strong'>{firstName}</span>.
+          Hey, I&apos;m <span className='text--strong'>{firstName}</span>
 
           {greetingEmoji && <span> {greetingEmoji}</span>}
         </h1>
@@ -35,7 +35,7 @@ const About = () => {
 
       <div className='animate__animated animate__fadeIn animate__delay-5s'>
         {description && (
-          <div className='about__desc paragraph__list center'>
+          <div className='about__desc paragraph__list center' style={{ textAlign: 'center' }}>
             {description.map((item) => (
               <p key={uniqid()}>{item}</p>
             ))}
