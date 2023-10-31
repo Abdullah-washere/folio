@@ -1,13 +1,12 @@
-import React from 'react';
-import uniqid from 'uniqid';
-import GitHubIcon from '@material-ui/icons/GitHub';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import InstagramIcon from '@mui/icons-material/Instagram'; // Import InstagramIcon
-import { about } from '../data/portfolio';
+import uniqid from 'uniqid'
+import GitHubIcon from '@material-ui/icons/GitHub'
+import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import { about } from '../data/portfolio'
 
 const About = () => {
-  const { name, role, company, description, resume, social, greetingEmoji } = about;
-  const firstName = name ? name.split(' ')[0] : null;
+  const { name, role, company, description, resume, social, greetingEmoji } =
+    about
+  const firstName = name ? name.split(' ')[0] : null
 
   return (
     <div className='about'>
@@ -23,7 +22,7 @@ const About = () => {
 
       {role && (
         <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-          I&aposm a {role}
+          I&apos;m a {role}
           {company && (
             <span>
               {' '}
@@ -77,18 +76,6 @@ const About = () => {
                   <LinkedInIcon />
                 </a>
               )}
-
-              {social.instagram && (
-                <a
-                  href={social.instagram} // Replace with your Instagram profile URL
-                  target='_blank'
-                  rel='noreferrer'
-                  aria-label='instagram'
-                  className='link link--icon'
-                >
-                  <InstagramIcon /> {/* Instagram icon */}
-                </a>
-              )}
             </>
           )}
         </div>
@@ -96,7 +83,7 @@ const About = () => {
 
       <div className='about__pseudo-padding' />
     </div>
-  );
+  )
 }
 
-export default About;
+export default About
