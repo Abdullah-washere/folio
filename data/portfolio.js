@@ -7,7 +7,8 @@ const about = {
   description: [
     "I am a creative computing enthusiast who has just completed my BSc in Creative Computing. With a passion for pushing the boundaries of web development and a penchant for turning innovative ideas into digital realities, I bring a unique blend of creativity and technical expertise to the table. My journey in the world of technology has been a thrilling adventure, and I'm excited to invite you to explore it with me through my portfolio. Join me as we dive into a realm where code and creativity converge, shaping the future one pixel at a time.",
   ],
-  CV: 'https://example.com',
+  CV: 'https://github.com/Abdullah-washere/folio/blob/b733f3fbf69da262a837caceea2869c3bed2f446/Abdullah%20Malik%20CV%20updated1.1%20(1).pdf
+',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com',
