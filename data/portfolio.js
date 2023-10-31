@@ -61,18 +61,20 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 5',
+    thumbnail: 'images/timelapse.png',
+    name: 'Timelapse',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+  "I've had the privilege to craft captivating timelapse videos, compressing extensive time periods into visually captivating short clips. These projects enabled me to explore the beauty of nature, urban landscapes, and various subjects, all presented in a unique and engaging manner. Creating timelapses demanded patience, meticulous attention to detail, and a keen eye for composition. I take great pride in producing timelapse videos that encapsulate moments and weave stories in concise, visually captivating formats."
+],
+
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['Video Editing', 'Videography', 'Storytelling'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 6',
+    name: 'Digital Story Experience',
     description: [
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     ],
