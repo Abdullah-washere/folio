@@ -35,7 +35,7 @@ const About = () => {
 
       <div className='animate__animated animate__fadeIn animate__delay-5s'>
         {description && (
-          <div className='about__desc paragraph__list center' style={{ textAlign: 'center' }}>
+          <div className='about__desc paragraph__list center' style={{ textAlign: 'justify' }}>
             {description.map((item) => (
               <p key={uniqid()}>{item}</p>
             ))}
