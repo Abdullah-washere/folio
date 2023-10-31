@@ -64,7 +64,7 @@ const projects = [
     thumbnail: 'images/timelapse.png',
     name: 'Timelapse',
     description: [
-  "I've had the privilege to craft captivating timelapse videos, compressing extensive time periods into visually captivating short clips. These projects enabled me to explore the beauty of nature, urban landscapes, and various subjects, all presented in a unique and engaging manner. Creating timelapses demanded patience, meticulous attention to detail, and a keen eye for composition. I take great pride in producing timelapse videos that encapsulate moments and weave stories in concise, visually captivating formats."
+  "I craft compelling timelapse videos, capturing the essence of moments and subjects through visually concise storytelling."
 ],
 
     stack: ['Video Editing', 'Videography', 'Storytelling'],
