@@ -72,10 +72,11 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    thumbnail: 'images/placeholder-image.jpeg',
+    thumbnail: 'images/greenmissle.png',
     name: 'Digital Story Experience',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+
+"I ventured into digital storytelling, creating and editing my first video. This journey ignited my passion for visual storytelling and honed my video production skills.",
     ],
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
