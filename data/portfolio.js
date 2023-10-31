@@ -67,7 +67,6 @@ const projects = [
   "I've had the privilege to craft captivating timelapse videos, compressing extensive time periods into visually captivating short clips. These projects enabled me to explore the beauty of nature, urban landscapes, and various subjects, all presented in a unique and engaging manner. Creating timelapses demanded patience, meticulous attention to detail, and a keen eye for composition. I take great pride in producing timelapse videos that encapsulate moments and weave stories in concise, visually captivating formats."
 ],
 
-    ],
     stack: ['Video Editing', 'Videography', 'Storytelling'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
