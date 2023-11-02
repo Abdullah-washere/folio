@@ -5,7 +5,7 @@ const about = {
   role: 'Web Developer',
   company: 'Stecker Inc',
   description: [
-    "I am a creative computing enthusiast who has just completed my BSc in Creative Computing. With a passion for pushing the boundaries of web development and a penchant for turning innovative ideas into digital realities, I bring a unique blend of creativity and technical expertise to the table. My journey in the world of technology has been a thrilling adventure, and I'm excited to invite you to explore it with me through my portfolio. Join me as we dive into a realm where code and creativity converge, shaping the future one pixel at a time. Saad is a nigger",
+    "I am a creative computing enthusiast who has just completed my BSc in Creative Computing. With a passion for pushing the boundaries of web development and a penchant for turning innovative ideas into digital realities, I bring a unique blend of creativity and technical expertise to the table. My journey in the world of technology has been a thrilling adventure, and I'm excited to invite you to explore it with me through my portfolio. Join me as we dive into a realm where code and creativity converge, shaping the future one pixel at a time.",
   ],
   resume: 'https://drive.google.com/file/d/1yyZV-_iRK51qKBq6VImhkcGEME_ddeoc/view?usp=sharing',
 
