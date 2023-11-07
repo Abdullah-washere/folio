@@ -37,7 +37,10 @@ const About = () => {
     <p className='about__intro animate__animated animate__fadeInUp animate__delay-4s'>
     Welcome to my leanfolio.
 
-    </p>  //  Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
+
+    {/* Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects. */}
+
+    </p>
   </h1>
 )}
 
