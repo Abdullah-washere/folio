@@ -13,7 +13,7 @@ const About = () => {
       <div className='about__pseudo-padding about__pseudo-padding-top' />
 
       <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
-        Hey, I&apos;m <span className='text--strong'>{firstName}</span>
+        Heyyyyyy, I&apos;m <span className='text--strong'>{firstName}</span>
 
         {greetingEmoji && <span> {greetingEmoji}</span>}
       </h1>
