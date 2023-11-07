@@ -211,7 +211,7 @@ const skills = [
   'CSS',
   'JavaScript',
   'Python',
-  'Figma',
+  'SQL',
   'Canva',
   'SASS',
   'Figma',

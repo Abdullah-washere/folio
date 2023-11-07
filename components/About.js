@@ -27,6 +27,7 @@ const About = () => {
             <span>
               {' '}
               at <span className='text--strong'>{company}</span>
+              Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
             </span>
           )}
           .
