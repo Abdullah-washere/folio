@@ -14,7 +14,7 @@ const About = () => {
 
       {firstName && (
         <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
-          Hey, I&apos;m <span className='text--strong'>{firstName}</span>
+          Heyy, I&apos;m <span className='text--strong'>{firstName}</span>
 
           {greetingEmoji && <span> {greetingEmoji}</span>}
         </h1>
@@ -27,10 +27,11 @@ const About = () => {
             <span>
               {' '}
               at <span className='text--strong'>{company}</span>
-              Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
             </span>
           )}
           .
+          Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
+
         </h1>
       )}
 
