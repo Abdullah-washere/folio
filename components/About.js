@@ -12,35 +12,35 @@ const About = () => {
     <div className='about'>
       <div className='about__pseudo-padding about__pseudo-padding-top' />
 
-      {firstName && (
-        <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
-          Hey, I&apos;m <span className='text--strong'>{firstName}</span>
+      <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
+        Hey, I&apos;m <span className='text--strong'>{firstName}</span>
 
-          {greetingEmoji && <span> {greetingEmoji}</span>}
-        </h1>
-      )}
+        {greetingEmoji && <span> {greetingEmoji}</span>}
+      </h1>
 
-      {role && (
-        <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-          I&apos;m a {role}
-          {company && (
-            <span>
-              {' '}
-              at <span className='text--strong'>{company}</span>
-            </span>
-          )}
-          .
-        </h1>
-      )}
+      <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
+        I&aposm a {role}
+        {company && (
+          <span>
+            {' '}
+            at <span className='text--strong'>{company}</span>
+          </span>
+        )}
+        .
+      </h1>
 
-      <div className='animate__animated animate__fadeIn animate__delay-5s'>
+      <h2 className='about__description animate__animated animate__fadeInUp animate__delay-5s'>
+        Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
+      </h2>
+
+      <div className='animate__animated animate__fadeIn animate__delay-7s'>
         {description && (
           <div className='about__desc paragraph__list center' style={{ textAlign: 'justify' }}>
             {description.map((item) => (
               <p key={uniqid()}>{item}</p>
             ))}
           </div>
-        )}
+        }
 
         <div className='about__contact center'>
           {resume && (
@@ -49,7 +49,7 @@ const About = () => {
                 Resume
               </span>
             </a>
-          )}
+          }
 
           {social && (
             <>
@@ -77,7 +77,7 @@ const About = () => {
                 </a>
               )}
             </>
-          )}
+          }
         </div>
       </div>
 
