@@ -14,15 +14,17 @@ const About = () => {
 
       {firstName && (
         <h1 className='about__greeting animate__animated animate__fadeInUp animate__delay-1s'>
-          Heyyy, I&apos;m <span className='text--strong'>{firstName}</span>
+          Hey, I&aposm <span className='text--strong'>{firstName}</span>
 
           {greetingEmoji && <span> {greetingEmoji}</span>}
         </h1>
       )}
 
+      <p className='about__intro'>Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.</p>
+
       {role && (
         <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-          I&apos;m a {role}
+          I&aposm a {role}
           {company && (
             <span>
               {' '}
@@ -40,7 +42,7 @@ const About = () => {
               <p key={uniqid()}>{item}</p>
             ))}
           </div>
-        )}
+        }
 
         <div className='about__contact center'>
           {resume && (
