@@ -25,22 +25,21 @@ const About = () => {
 
 
       {role && (
-  <div>
-    <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
-      I&apos;m a {role}
-      {company && (
-        <span>
-          {' '}
-          at <span className='text--strong'>{company}</span>
-        </span>
-      )}
-      .
-    </h1>
-    <p className='about__intro'>
+  <h1 className='about__role animate__animated animate__fadeInUp animate__delay-3s'>
+    I&apos;m a {role}
+    {company && (
+      <span>
+        {' '}
+        at <span className='text--strong'>{company}</span>
+      </span>
+    )}
+    .
+    <p className='about__intro animate__animated animate__fadeInUp animate__delay-4s'>
       Step into the realm of innovation and tech on my Leanfolio, where you can delve into my technology-driven projects.
     </p>
-  </div>
+  </h1>
 )}
+
 
 
 
