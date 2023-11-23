@@ -34,12 +34,8 @@ const projects = [
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
-      "Full-Stack Development:** Engineered the website from scratch, implementing both front-end and back-end functionalities.
-- **User-Centric Design:** Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.
-- **Responsive Web Design:** Developed a responsive design to ensure optimal viewing across various devices and screen sizes.
-- **Interactive Features:** Integrated interactive features and dynamic content to enhance user engagement and interaction.
-- **Performance Optimization:** Implemented optimization techniques to enhance website speed and overall performance.
-",
+
+      "Full-Stack Development:** Engineered the website from scratch, implementing both front-end and back-end functionalities. User Centric Design Ensured an intuitive and engaging user experience through thoughtful design elements and navigation. Responsive Web Design Developed a responsive design to ensure optimal viewing across various devices and screen sizes.",
     ],
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
