@@ -22,9 +22,9 @@ const projects = [
   // each element in the description array is a paragraph
   {
     thumbnail: 'images/proj1.png',
-    name: 'Web Development',
+    name: 'Web Development (Stecker Inc)',
     description: [
-      "I had the exciting opportunity to lead the development of the Rio.io website for Stecker Inc, showcasing my proficiency in web design and development. Rio.io is a dynamic platform that required a user-friendly interface to effectively communicate Stecker Inc's brand and offerings.",
+      "As an independent contractor, I was selected by Stecker Inc to fully design and develop their customer-facing website hosted at myrio.io. Tasked with modernizing their digital presence, I planned and built the responsive site completely from scratch. My work included implementing a streamlined UI/UX design system for a more contemporary and seamless user experience across all 10 pages and device sizes. For visual identity, I created a bold, vibrant color scheme and integrated graphic elements that reflected their energetic brand. I also ensured cross-browser optimization and integrated several new functionalities, a subscription email newsletter, and advanced SEO enhancements focused on conversions. The completed website allowed Stecker Inc to greatly improve site traffic, subscriber outreach efforts, product sales through built-in shopping integration, and overall user experience.",
     ],
     stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
     sourceCode: 'https://myrio.io/',
