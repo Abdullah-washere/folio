@@ -22,13 +22,13 @@ const projects = [
   // each element in the description array is a paragraph
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 1',
+    name: 'Web Developer',
     description: [
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    stack: ['HTML', 'CSS3', 'JavaScript', 'php', 'SQL'],
+    sourceCode: 'https://myrio.io/',
+    livePreview: 'https://myrio.io/',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
