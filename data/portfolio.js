@@ -31,7 +31,7 @@ const projects = [
     livePreview: 'https://myrio.io/',
   },
   {
-  thumbnail: 'images/placeholder-image.jpeg',
+  thumbnail: 'images/proj1face.png',
 
   name: 'Roosevelt University Hackathon Sponsor Platform',
 
