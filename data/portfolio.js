@@ -24,7 +24,7 @@ const projects = [
     thumbnail: 'images/proj1.png',
     name: 'Web Development (Stecker Inc)',
     description: [
-      "As an independent contractor, I was selected by Stecker Inc to fully design and develop their customer-facing website hosted at myrio.io. Tasked with modernizing their digital presence, I planned and built the responsive site completely from scratch. My work included implementing a streamlined UI/UX design system for a more contemporary and seamless user experience across all 10 pages and device sizes. For visual identity, I created a bold, vibrant color scheme and integrated graphic elements that reflected their energetic brand. I also ensured cross-browser optimization and integrated several new functionalities, a subscription email newsletter, and advanced SEO enhancements focused on conversions. The completed website allowed Stecker Inc to greatly improve site traffic, subscriber outreach efforts, product sales through built-in shopping integration, and overall user experience.",
+      "I led the development of the Rio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages. The bold color scheme and integrated graphics reflected Stecker Inc's energetic brand. The site features cross-browser optimization, new functionalities, a subscription email newsletter, and advanced SEO enhancements, resulting in improved site traffic, subscriber outreach, product sales, and overall user experience.",
     ],
     stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
     sourceCode: 'https://myrio.io/',
@@ -32,9 +32,14 @@ const projects = [
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 2',
+    name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      "Full-Stack Development:** Engineered the website from scratch, implementing both front-end and back-end functionalities.
+- **User-Centric Design:** Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.
+- **Responsive Web Design:** Developed a responsive design to ensure optimal viewing across various devices and screen sizes.
+- **Interactive Features:** Integrated interactive features and dynamic content to enhance user engagement and interaction.
+- **Performance Optimization:** Implemented optimization techniques to enhance website speed and overall performance.
+",
     ],
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
