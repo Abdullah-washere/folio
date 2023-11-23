@@ -51,7 +51,7 @@ const projects = [
 
 
   {
-    thumbnail: 'images/placeholder-image.jpeg',
+    thumbnail: 'images/spon1.png',
     name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
       "In addition to client website work, I spearheaded development for https://myrio.io/sponsor.html - a custom site enabling sponsor signups and payments for the 2022 hackathon event held at Roosevelt University.",
