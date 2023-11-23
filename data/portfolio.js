@@ -31,16 +31,21 @@ const projects = [
     livePreview: 'https://myrio.io/',
   },
   {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Roosevelt University Hackathon Sponsor Platform',
-    description: [
+  thumbnail: 'images/placeholder-image.jpeg',
 
-      "Full-Stack Development:** Engineered the website from scratch, implementing both front-end and back-end functionalities. User Centric Design Ensured an intuitive and engaging user experience through thoughtful design elements and navigation. Responsive Web Design Developed a responsive design to ensure optimal viewing across various devices and screen sizes.",
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  name: 'Roosevelt University Hackathon Sponsor Platform',
+
+  description: `Full-Stack Development:** Engineered the website from scratch, implementing both front-end and back-end functionalities.\n
+                  User Centric Design: Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.\n
+                  Responsive Web Design: Developed a responsive design to ensure optimal viewing across various devices and screen sizes.`,
+
+  stack: ['SASS', 'TypeScript', 'React'],
+
+  sourceCode: 'https://github.com',
+
+  livePreview: 'https://github.com',
+
+},
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 3',
