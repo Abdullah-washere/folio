@@ -22,9 +22,9 @@ const projects = [
   // each element in the description array is a paragraph
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Web Developer',
+    name: 'Web Development',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      "I had the exciting opportunity to lead the development of the Rio.io website for Stecker Inc, showcasing my proficiency in web design and development. Rio.io is a dynamic platform that required a user-friendly interface to effectively communicate Stecker Inc's brand and offerings.',
     ],
     stack: ['HTML', 'CSS3', 'JavaScript', 'php', 'SQL'],
     sourceCode: 'https://myrio.io/',
