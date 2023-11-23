@@ -24,12 +24,18 @@ const projects = [
     thumbnail: 'images/proj1.png',
     name: 'Web Development (Stecker Inc)',
     description: [
-      "I led the development of the Rio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages. The bold color scheme and integrated graphics reflected Stecker Inc's energetic brand. The site features cross-browser optimization, new functionalities, a subscription email newsletter, and advanced SEO enhancements, resulting in improved site traffic, subscriber outreach, product sales, and overall user experience.",
+
+      "I led the development of the Rio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages.",
+      "The bold color scheme and integrated graphics reflected Stecker Inc's energetic brand.",
+      "The site features cross-browser optimization, new functionalities, a subscription email newsletter, and advanced SEO enhancements, resulting in improved site traffic, subscriber outreach, product sales, and overall user experience.",
+
     ],
     stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
     sourceCode: 'https://myrio.io/',
     livePreview: 'https://myrio.io/',
   },
+
+
   {
   thumbnail: 'images/proj1face.png',
   name: 'Roosevelt University Hackathon Sponsor Platform',
@@ -38,10 +44,12 @@ const projects = [
     "User Centric Design: Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.",
     "Responsive Web Design: Developed a responsive design to ensure optimal viewing across various devices and screen sizes.",
   ],
-  stack: ['SASS', 'TypeScript', 'React'],
-  sourceCode: 'https://github.com',
-  livePreview: 'https://github.com',
+  stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
+  sourceCode: 'https://myrio.io/',
+  livePreview: 'https://myrio.io/',
 },
+
+
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 3',
