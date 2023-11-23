@@ -21,7 +21,7 @@ const projects = [
   // if there are no projects, Projects section won't show up
   // each element in the description array is a paragraph
   {
-    thumbnail: 'images/placeholder-image.jpeg',
+    thumbnail: 'images/proj1.png',
     name: 'Web Development',
     description: [
       "I had the exciting opportunity to lead the development of the Rio.io website for Stecker Inc, showcasing my proficiency in web design and development. Rio.io is a dynamic platform that required a user-friendly interface to effectively communicate Stecker Inc's brand and offerings.',
