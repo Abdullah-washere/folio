@@ -25,7 +25,7 @@ const projects = [
     name: 'Web Development (Stecker Inc)',
     description: [
 
-      "I led the development of the Rio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages.",
+      "I led the development of the myrio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages.",
       "The bold color scheme and integrated graphics reflected Stecker Inc's energetic brand.",
       "The site features cross-browser optimization, new functionalities, a subscription email newsletter, and advanced SEO enhancements, resulting in improved site traffic, subscriber outreach, product sales, and overall user experience.",
 
@@ -38,7 +38,7 @@ const projects = [
 
   {
   thumbnail: 'images/proj1face.png',
-  name: 'Roosevelt University Hackathon Sponsor Platform',
+  name: 'Web Development (Stecker Inc)',
   description: [
     "Full-Stack Development: Engineered the website from scratch, implementing both front-end and back-end functionalities.",
     "User Centric Design: Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.",
@@ -52,13 +52,15 @@ const projects = [
 
   {
     thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 3',
+    name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      "In addition to client website work, I spearheaded development for https://myrio.io/sponsor.html - a custom site enabling sponsor signups and payments for the 2022 hackathon event held at Roosevelt University.",
+      "As the lead UI/UX designer and front-end developer, I crafted this targeted site from scratch to facilitate the event organizers’ sponsor outreach initiatives. My responsibilities spanned designing an appealing interface to match their brand aesthetic, constructing the site architecture, implementing registration/payment functionality with Stripe, and ensuring a streamlined sponsor signup experience across devices.",
+      "Key solutions included crafting custom Stripe webhook payment integrations tailored to the university’s accounting needs, responsive layouts providing consistency across desktop and mobile, and automated email confirmations to new sponsors. The site played a pivotal role in sponsorship fulfillment leading up to the hackathon.",
     ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
+    sourceCode: 'https://myrio.io/sponsor.html',
+    livePreview: 'https://myrio.io/sponsor.html',
   },
   {
     thumbnail: 'images/placeholder-image.jpeg',
