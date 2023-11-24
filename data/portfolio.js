@@ -54,7 +54,7 @@ const projects = [
     thumbnail: 'images/spon1.png',
     name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
-      "In addition to client website work, I spearheaded development for https://myrio.io/sponsor.html - a custom site enabling sponsor signups and payments for the 2022 hackathon event held at Roosevelt University.",
+      "In addition to client website work, I spearheaded development for a custom site enabling sponsor signups and payments for the 2022 hackathon event held at Roosevelt University Chicago.",
       "As the lead UI/UX designer and front-end developer, I crafted this targeted site from scratch to facilitate the event organizers’ sponsor outreach initiatives. My responsibilities spanned designing an appealing interface to match their brand aesthetic, constructing the site architecture, implementing registration/payment functionality with Stripe, and ensuring a streamlined sponsor signup experience across devices.",
       "Key solutions included crafting custom Stripe webhook payment integrations tailored to the university’s accounting needs, responsive layouts providing consistency across desktop and mobile, and automated email confirmations to new sponsors. The site played a pivotal role in sponsorship fulfillment leading up to the hackathon.",
     ],
