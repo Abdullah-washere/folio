@@ -73,9 +73,9 @@ const projects = [
   "Responsive Design: Ensured the platform's responsiveness across various devices, allowing sponsors to engage from desktops, tablets, and mobile devices.",
   "The success of the sponsorship platform played a crucial role in securing funding for the Roosevelt University Hackathon. The platform's secure and user-friendly design, coupled with the seamless payment gateway integration, contributed to the overall success of the event.",
 ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
+sourceCode: 'https://myrio.io/sponsor.html',
+livePreview: 'https://myrio.io/sponsor.html',
   },
   {
     thumbnail: 'images/timelapse.png',
