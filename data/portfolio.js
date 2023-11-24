@@ -63,8 +63,8 @@ const projects = [
     livePreview: 'https://myrio.io/sponsor.html',
   },
   {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 4',
+    thumbnail: 'images/stripe1.png',
+    name: 'Roosevelt University Hackathon Sponsor Platform',
     description: [
   "Custom Sponsorship Platform: Engineered a tailored sponsorship platform to facilitate seamless contributions from sponsors.",
   "Payment Gateway Integration: Integrated Stripe.com as the payment gateway, providing a secure and efficient method for sponsors to make financial contributions.",
