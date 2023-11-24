@@ -70,7 +70,6 @@ const projects = [
   "Payment Gateway Integration: Integrated Stripe.com as the payment gateway, providing a secure and efficient method for sponsors to make financial contributions.",
   "User-Friendly Interface: Designed an intuitive and user-friendly interface for sponsors to navigate and complete the sponsorship process effortlessly.",
   "Personalized Payment Workflow: Customized the payment workflow to align with the unique requirements of the Roosevelt University Hackathon.",
-  "Responsive Design: Ensured the platform's responsiveness across various devices, allowing sponsors to engage from desktops, tablets, and mobile devices.",
   "The success of the sponsorship platform played a crucial role in securing funding for the Roosevelt University Hackathon. The platform's secure and user-friendly design, coupled with the seamless payment gateway integration, contributed to the overall success of the event.",
 ],
 stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
