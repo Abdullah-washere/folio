@@ -118,16 +118,22 @@ livePreview: 'https://myrio.io/sponsor.html',
 
 
 
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 8',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'Netflix Clone',
+description: [
+  'A fully-responsive Netflix clone built using React, simulating the user experience of Netflix with dynamic content and a sleek UI. This project was bootstrapped with Create React App and uses Firebase for deployment.',
+],
+stack: ['React', 'JavaScript', 'CSS', 'Firebase'],
+features: [
+  'Bootstrapped with Create React App for a quick and structured setup.',
+  'Supports local development with scripts such as npm start, npm test, and npm run build for building and testing.',
+  'Live deployment on Firebase, available for testing [here](https://netflix-1ad95.web.app/).',
+  'Customizable build process, with options to eject for complete control over configuration and dependencies.'
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 9',
