@@ -98,16 +98,26 @@ livePreview: 'https://myrio.io/sponsor.html',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+
+
   {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 7',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  thumbnail: 'images/placeholder-image.jpeg',
+  name: 'Breaking Bad Characters App',
+  description: [
+    'Are you a fan of Breaking Bad and a Web Development enthusiast? This mobile app brings characters from the series to life with a dynamic, React Native experience. It’s built to provide seamless interaction and quick access to detailed information on each character from Breaking Bad.',
+  ],
+  stack: ['React Native', 'JavaScript', 'Breaking Bad API'],
+  features: [
+    'Interactive UI built with React Native components.',
+    'Data fetched in real-time using the Breaking Bad API.',
+    'Optimized navigation and state management with React Native hooks for a responsive experience.'
+  ],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
+
+
+
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 8',
