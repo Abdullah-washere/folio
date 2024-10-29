@@ -172,7 +172,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/ojb.png',
+thumbnail: 'images/pok.png',
 name: 'PokeAPI Explorer',
 description: [
   'A React application that integrates with the PokeAPI to bring users details about various Pokémon. This app provides real-time data fetching and a sleek design to explore the world of Pokémon in an interactive way.'
@@ -193,7 +193,7 @@ livePreview: 'https://github.com',
 
 
   {
-  thumbnail: 'images/ojb.png',
+  thumbnail: 'images/idmb.jpeg',
   name: 'IMDb Clone',
   description: [
     'A clone of the IMDb platform, built using React to display movie and TV show data with ratings, descriptions, and trailers. It offers a comprehensive and engaging experience for film enthusiasts.'
@@ -212,7 +212,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/ojb.png',
+thumbnail: 'images/got.jpeg',
 name: 'Game of Thrones Character Explorer',
 description: [
   'A React app that showcases characters from Game of Thrones, pulling data from a third-party API. Users can browse character details, alliances, and house information in an interactive layout.'
