@@ -114,22 +114,7 @@ sourceCode: 'https://github.com',
 livePreview: 'https://github.com',
 },
 
-{
-thumbnail: 'images/placeholder-image.jpeg',
-name: 'E-commerce WebApp',
-description: [
-  'A responsive and user-friendly E-commerce WebApp built with React, providing a seamless shopping experience with dynamic product listings and a streamlined checkout flow. This project was bootstrapped with Create React App and enhanced using the clean-cra template for a structured, lightweight setup.'
-],
-stack: ['React', 'JavaScript', 'CSS', 'clean-cra Template'],
-features: [
-  'Bootstrapped with Create React App, leveraging the clean-cra template for optimized setup.',
-  'Dynamic product listings and interactive shopping cart functionality.',
-  'Responsive design ensuring accessibility and usability across devices.',
-  'Structured codebase suitable for scaling and customization, with clean, minimal configuration.',
-],
-sourceCode: 'https://github.com',  // Placeholder link, replace with actual repository link
-livePreview: 'https://github.com',  // Placeholder link, replace with actual preview link
-},
+
 {
 thumbnail: 'images/placeholder-image.jpeg',
 name: 'E-commerce WebApp',
@@ -147,111 +132,203 @@ features: [
 sourceCode: 'https://github.com',  // Placeholder link, replace with actual repository link
 livePreview: 'https://github.com',  // Placeholder link, replace with actual preview link
 },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 11',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 12',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 13',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'RandomUser API Explorer',
+description: [
+  'An app built with React to display random user profiles. It integrates the RandomUser API to fetch user data and allows filtering and sorting options to explore various user attributes dynamically.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'RandomUser API'],
+features: [
+  'Fetches random user profiles and displays them in a user-friendly layout.',
+  'Includes sorting and filtering options to explore user data by attributes.',
+  'Responsive design for optimal viewing on various devices.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'Job Portal',
+description: [
+  'A comprehensive job portal application built with React, offering job listings, search functionality, and application tracking. This app simplifies the job search process and makes finding the right position easier for users.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'REST API'],
+features: [
+  'Job listing functionality with search and filter capabilities.',
+  'Interactive application tracking to monitor job application statuses.',
+  'Optimized for responsive browsing and streamlined user experience.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'PokeAPI Explorer',
+description: [
+  'A React application that integrates with the PokeAPI to bring users details about various Pokémon. This app provides real-time data fetching and a sleek design to explore the world of Pokémon in an interactive way.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'PokeAPI'],
+features: [
+  'Real-time Pokémon data fetching with details on stats, abilities, and types.',
+  'Filter and search functionality for quick access to specific Pokémon.',
+  'User-friendly design optimized for mobile and desktop viewing.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
 
 
   {
-    thumbnail: 'images/timelapse.png',
-    name: 'Timelapse',
-    description: [
-  "I craft compelling timelapse videos, capturing the essence of moments and subjects through visually concise storytelling."
+  thumbnail: 'images/placeholder-image.jpeg',
+  name: 'IMDb Clone',
+  description: [
+    'A clone of the IMDb platform, built using React to display movie and TV show data with ratings, descriptions, and trailers. It offers a comprehensive and engaging experience for film enthusiasts.'
+  ],
+  stack: ['React', 'JavaScript', 'CSS', 'Movie Database API'],
+  features: [
+    'Detailed movie and TV show pages with ratings, descriptions, and trailers.',
+    'Search and filter options for easy navigation of large data sets.',
+    'Optimized performance and responsive design for all device sizes.',
+  ],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
+
+
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'Game of Thrones Character Explorer',
+description: [
+  'A React app that showcases characters from Game of Thrones, pulling data from a third-party API. Users can browse character details, alliances, and house information in an interactive layout.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'Game of Thrones API'],
+features: [
+  'Character bios, alliances, and house information with intuitive navigation.',
+  'Search and filtering capabilities to quickly find specific characters.',
+  'Responsive design for smooth browsing on all device types.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'Expense Tracker',
+description: [
+  'A React-based expense tracking application that helps users manage and categorize their expenses. With a clean UI and detailed financial summaries, it simplifies budgeting and expense management.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'Local Storage'],
+features: [
+  'Add, delete, and categorize expenses with real-time updates.',
+  'Persistent storage using Local Storage for user data.',
+  'Interactive charts and summaries to visualize spending patterns.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'Recipe App',
+description: [
+  'An interactive recipe app that lets users explore a variety of recipes, search by ingredients, and view step-by-step cooking instructions. Built with React and integrated with a recipe API.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'Recipe API'],
+features: [
+  'Search for recipes by ingredient, cuisine, or name.',
+  'Detailed ingredient lists and cooking instructions for each recipe.',
+  'Responsive, mobile-friendly layout for a smooth experience.',
+],
+sourceCode: 'https://github.com',
+livePreview: 'https://github.com',
+},
+
+
+
+
+{
+  thumbnail: 'images/placeholder-image.jpeg',
+  name: 'Todo App with Local Storage',
+  description: [
+    'A simple yet effective Todo App created with React. This app uses Local Storage to retain task data, ensuring users can track their tasks easily across sessions.'
+  ],
+  stack: ['React', 'JavaScript', 'CSS', 'Local Storage'],
+  features: [
+    'Add, delete, and mark tasks as complete with ease.',
+    'Tasks are saved in Local Storage, preserving data across sessions.',
+    'Minimalistic design with a focus on usability and accessibility.',
+  ],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
+
+
+
+{
+  thumbnail: 'images/placeholder-image.jpeg',
+  name: 'Weather App',
+  description: [
+    'A React-based Weather App that retrieves real-time weather data from an API. Users can search for weather conditions by city and see details such as temperature, humidity, and weather descriptions.'
+  ],
+  stack: ['React', 'JavaScript', 'CSS', 'Weather API'],
+  features: [
+    'Real-time weather data retrieval with search functionality by city.',
+    'Detailed weather conditions, including temperature, humidity, and descriptions.',
+    'Responsive and easy-to-navigate design for all device types.',
+  ],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
+
+
+
+{
+  thumbnail: 'images/timelapse.png',
+  name: 'Timelapse',
+  description: [
+"I craft compelling timelapse videos, capturing the essence of moments and subjects through visually concise storytelling."
 ],
 
-    stack: ['Video Editing', 'Videography', 'Storytelling'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/greenmissle.png',
-    name: 'Digital Story Experience',
-    description: [
+  stack: ['Video Editing', 'Videography', 'Storytelling'],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
+
+{
+  thumbnail: 'images/greenmissle.png',
+  name: 'Digital Story Experience',
+  description: [
 
 "I ventured into digital storytelling, creating and editing my first video. This journey ignited my passion for visual storytelling and honed my video production skills.",
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+  ],
+  stack: ['SASS', 'TypeScript', 'React'],
+  sourceCode: 'https://github.com',
+  livePreview: 'https://github.com',
+},
 
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 14',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 15',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 16',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 17',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 18',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
 ]
 
 const skills = [
