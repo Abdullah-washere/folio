@@ -76,28 +76,7 @@ stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
 sourceCode: 'https://myrio.io/sponsor.html',
 livePreview: 'https://myrio.io/sponsor.html',
   },
-  {
-    thumbnail: 'images/timelapse.png',
-    name: 'Timelapse',
-    description: [
-  "I craft compelling timelapse videos, capturing the essence of moments and subjects through visually concise storytelling."
-],
 
-    stack: ['Video Editing', 'Videography', 'Storytelling'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
-  {
-    thumbnail: 'images/greenmissle.png',
-    name: 'Digital Story Experience',
-    description: [
-
-"I ventured into digital storytelling, creating and editing my first video. This journey ignited my passion for visual storytelling and honed my video production skills.",
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
 
 
   {
@@ -134,16 +113,24 @@ features: [
 sourceCode: 'https://github.com',
 livePreview: 'https://github.com',
 },
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 9',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'E-commerce WebApp',
+description: [
+  'A responsive and user-friendly E-commerce WebApp built with React, providing a seamless shopping experience with dynamic product listings and a streamlined checkout flow. This project was bootstrapped with Create React App and enhanced using the clean-cra template for a structured, lightweight setup.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'clean-cra Template'],
+features: [
+  'Bootstrapped with Create React App, leveraging the clean-cra template for optimized setup.',
+  'Dynamic product listings and interactive shopping cart functionality.',
+  'Responsive design ensuring accessibility and usability across devices.',
+  'Structured codebase suitable for scaling and customization, with clean, minimal configuration.',
+],
+sourceCode: 'https://github.com',  // Placeholder link, replace with actual repository link
+livePreview: 'https://github.com',  // Placeholder link, replace with actual preview link
+}
+,
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 10',
@@ -184,6 +171,31 @@ livePreview: 'https://github.com',
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+
+
+  {
+    thumbnail: 'images/timelapse.png',
+    name: 'Timelapse',
+    description: [
+  "I craft compelling timelapse videos, capturing the essence of moments and subjects through visually concise storytelling."
+],
+
+    stack: ['Video Editing', 'Videography', 'Storytelling'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
+    thumbnail: 'images/greenmissle.png',
+    name: 'Digital Story Experience',
+    description: [
+
+"I ventured into digital storytelling, creating and editing my first video. This journey ignited my passion for visual storytelling and honed my video production skills.",
+    ],
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 14',
