@@ -79,7 +79,7 @@ livePreview: 'https://myrio.io/sponsor.html',
 
 
   {
-  thumbnail: 'images/placeholder-image.jpeg',
+  thumbnail: 'images/bb.jpeg',
   name: 'Breaking Bad Characters App',
   description: [
     'Are you a fan of Breaking Bad and a Web Development enthusiast? This mobile app brings characters from the series to life with a dynamic, React Native experience. It’s built to provide seamless interaction and quick access to detailed information on each character from Breaking Bad.',
@@ -97,7 +97,7 @@ livePreview: 'https://myrio.io/sponsor.html',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/nertf.png',
 name: 'Netflix Clone',
 description: [
   'A fully-responsive Netflix clone built using React, simulating the user experience of Netflix with dynamic content and a sleek UI. This project was bootstrapped with Create React App and uses Firebase for deployment.',
@@ -115,7 +115,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/ewap.png',
 name: 'E-commerce WebApp',
 description: [
   'A responsive and user-friendly E-commerce WebApp built with React, providing a seamless shopping experience with dynamic product listings, an interactive shopping cart, and location-based store information using Google Maps API. This project was bootstrapped with Create React App and enhanced using the clean-cra template for a structured, lightweight setup.'
@@ -134,7 +134,7 @@ livePreview: 'https://github.com',  // Placeholder link, replace with actual pre
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/rand.jpeg',
 name: 'RandomUser API Explorer',
 description: [
   'An app built with React to display random user profiles. It integrates the RandomUser API to fetch user data and allows filtering and sorting options to explore various user attributes dynamically.'
@@ -153,7 +153,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/ojb.png',
 name: 'Job Portal',
 description: [
   'A comprehensive job portal application built with React, offering job listings, search functionality, and application tracking. This app simplifies the job search process and makes finding the right position easier for users.'
@@ -172,7 +172,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/ojb.png',
 name: 'PokeAPI Explorer',
 description: [
   'A React application that integrates with the PokeAPI to bring users details about various Pokémon. This app provides real-time data fetching and a sleek design to explore the world of Pokémon in an interactive way.'
@@ -193,7 +193,7 @@ livePreview: 'https://github.com',
 
 
   {
-  thumbnail: 'images/placeholder-image.jpeg',
+  thumbnail: 'images/ojb.png',
   name: 'IMDb Clone',
   description: [
     'A clone of the IMDb platform, built using React to display movie and TV show data with ratings, descriptions, and trailers. It offers a comprehensive and engaging experience for film enthusiasts.'
@@ -212,7 +212,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/ojb.png',
 name: 'Game of Thrones Character Explorer',
 description: [
   'A React app that showcases characters from Game of Thrones, pulling data from a third-party API. Users can browse character details, alliances, and house information in an interactive layout.'
@@ -231,7 +231,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/money.png',
 name: 'Expense Tracker',
 description: [
   'A React-based expense tracking application that helps users manage and categorize their expenses. With a clean UI and detailed financial summaries, it simplifies budgeting and expense management.'
@@ -250,7 +250,7 @@ livePreview: 'https://github.com',
 
 
 {
-thumbnail: 'images/placeholder-image.jpeg',
+thumbnail: 'images/recipe.jpeg',
 name: 'Recipe App',
 description: [
   'An interactive recipe app that lets users explore a variety of recipes, search by ingredients, and view step-by-step cooking instructions. Built with React and integrated with a recipe API.'
@@ -269,7 +269,7 @@ livePreview: 'https://github.com',
 
 
 {
-  thumbnail: 'images/placeholder-image.jpeg',
+  thumbnail: 'images/todo.png',
   name: 'Todo App with Local Storage',
   description: [
     'A simple yet effective Todo App created with React. This app uses Local Storage to retain task data, ensuring users can track their tasks easily across sessions.'
@@ -287,7 +287,7 @@ livePreview: 'https://github.com',
 
 
 {
-  thumbnail: 'images/placeholder-image.jpeg',
+  thumbnail: 'images/weather.png',
   name: 'Weather App',
   description: [
     'A React-based Weather App that retrieves real-time weather data from an API. Users can search for weather conditions by city and see details such as temperature, humidity, and weather descriptions.'
