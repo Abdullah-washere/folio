@@ -129,18 +129,24 @@ features: [
 ],
 sourceCode: 'https://github.com',  // Placeholder link, replace with actual repository link
 livePreview: 'https://github.com',  // Placeholder link, replace with actual preview link
-}
-,
-  {
-    thumbnail: 'images/placeholder-image.jpeg',
-    name: 'Project 10',
-    description: [
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    ],
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-  },
+},
+{
+thumbnail: 'images/placeholder-image.jpeg',
+name: 'E-commerce WebApp',
+description: [
+  'A responsive and user-friendly E-commerce WebApp built with React, providing a seamless shopping experience with dynamic product listings, an interactive shopping cart, and location-based store information using Google Maps API. This project was bootstrapped with Create React App and enhanced using the clean-cra template for a structured, lightweight setup.'
+],
+stack: ['React', 'JavaScript', 'CSS', 'Google Maps API', 'clean-cra Template'],
+features: [
+  'Bootstrapped with Create React App, leveraging the clean-cra template for optimized setup.',
+  'Dynamic product listings and interactive shopping cart functionality.',
+  'Google Maps API integration to provide location-based store information and directions.',
+  'Responsive design ensuring accessibility and usability across devices.',
+  'Structured codebase suitable for scaling and customization, with clean, minimal configuration.',
+],
+sourceCode: 'https://github.com',  // Placeholder link, replace with actual repository link
+livePreview: 'https://github.com',  // Placeholder link, replace with actual preview link
+},
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 11',
@@ -195,7 +201,7 @@ livePreview: 'https://github.com',  // Placeholder link, replace with actual pre
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
-  
+
   {
     thumbnail: 'images/placeholder-image.jpeg',
     name: 'Project 14',
