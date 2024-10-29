@@ -21,33 +21,32 @@ const projects = [
   // if there are no projects, Projects section won't show up
   // each element in the description array is a paragraph
   {
-    thumbnail: 'images/proj1.png',
-    name: 'Web Development (Stecker Inc)',
-    description: [
-
-      "I led the development of the myrio.io website for Stecker Inc, showcasing expertise in web design and development. As an independent contractor, I revamped their digital presence with a responsive site from scratch, implementing a streamlined UI/UX design system for 10 pages.",
-      "The bold color scheme and integrated graphics reflected Stecker Inc's energetic brand.",
-      "The site features cross-browser optimization, new functionalities, a subscription email newsletter, and advanced SEO enhancements, resulting in improved site traffic, subscriber outreach, product sales, and overall user experience.",
-
-    ],
-    stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
-    sourceCode: 'https://myrio.io/',
-    livePreview: 'https://myrio.io/',
-  },
-
-
-  {
-  thumbnail: 'images/proj1face.png',
+  thumbnail: 'images/proj1.png',
   name: 'Web Development (Stecker Inc)',
   description: [
-    "Full-Stack Development: Engineered the website from scratch, implementing both front-end and back-end functionalities.",
-    "User Centric Design: Ensured an intuitive and engaging user experience through thoughtful design elements and navigation.",
-    "Responsive Web Design: Developed a responsive design to ensure optimal viewing across various devices and screen sizes.",
+    "Led the development of the myrio.io website for Stecker Inc as an independent contractor, utilizing React to create a highly responsive and interactive site from scratch. I designed a modular UI/UX system that optimized performance across 10 pages, incorporating reusable React components and hooks for a seamless user experience.",
+    "Implemented a dynamic color scheme and integrated React animations to reflect Stecker Inc's vibrant brand identity.",
+    "The site features cross-browser optimization, newsletter integration with Mailchimp API, and advanced SEO practices, resulting in enhanced site traffic, increased subscriber outreach, and improved overall user engagement."
   ],
-  stack: ['HTML', 'SCSS', 'JavaScript', 'PHP', 'SQL'],
+  stack: ['React', 'SCSS', 'JavaScript', 'React Router', 'React Hook Form', 'Mailchimp API', 'SEO Enhancements'],
   sourceCode: 'https://myrio.io/',
   livePreview: 'https://myrio.io/',
 },
+
+
+{
+thumbnail: 'images/proj1face.png',
+name: 'Web Development (Stecker Inc)',
+description: [
+  "Full-Stack React Development: Built the entire website from the ground up using React for front-end functionalities and Node.js for back-end services.",
+  "User-Centric Design: Crafted an engaging, intuitive interface by employing React animations, state management with Redux, and optimized navigation.",
+  "Responsive Design with React: Ensured seamless performance and adaptability across devices with a responsive layout, utilizing styled-components for modular design.",
+],
+stack: ['React', 'Redux', 'Styled-Components', 'Node.js', 'Express', 'MongoDB'],
+sourceCode: 'https://myrio.io/',
+livePreview: 'https://myrio.io/',
+},
+
 
 
   {
