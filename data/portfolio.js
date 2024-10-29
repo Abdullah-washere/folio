@@ -226,6 +226,7 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
+  'React',
   'Python',
   'SQL',
   'Canva',
