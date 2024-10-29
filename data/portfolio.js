@@ -10,7 +10,7 @@ const about = {
   resume: 'https://drive.google.com/file/d/1yyZV-_iRK51qKBq6VImhkcGEME_ddeoc/view?usp=sharing',
 
   social: {
-    linkedin: 'https://linkedin.com',
+    linkedin: 'https://www.linkedin.com/in/abdmal',
     github: 'https://github.com',
   },
   greetingEmoji: '👋',
