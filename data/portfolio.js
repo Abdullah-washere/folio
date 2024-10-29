@@ -2,10 +2,10 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   // each element in the description array is a paragraph
   name: 'Abdullah Malik',
-  role: 'Web Developer',
-  company: 'Stecker Inc',
+  role: 'E-Commerce & Website Specialist ',
+  company: 'Casinetto',
   description: [
-    "I am a creative computing enthusiast who has just completed my BSc in Creative Computing. With a passion for pushing the boundaries of web development and a penchant for turning innovative ideas into digital realities, I bring a unique blend of creativity and technical expertise to the table. My journey in the world of technology has been a thrilling adventure, and I'm excited to invite you to explore it with me through my portfolio. Join me as we dive into a realm where code and creativity converge, shaping the future one pixel at a time.",
+    "I’m a creative computing enthusiast with a BSc in Creative Computing, driven by a commitment to crafting seamless digital experiences and a passion for building dynamic, user-friendly applications using React. My journey in web development is all about pushing the boundaries of what’s possible with React and transforming innovative ideas into reality. From performance optimization to interactive UI design, each project reflects my dedication to merging functionality with aesthetic precision.",
   ],
   resume: 'https://drive.google.com/file/d/1uddei4M3D-j3zMVs183FIBXNUKDmk0Ee/view?usp=sharing',
 
